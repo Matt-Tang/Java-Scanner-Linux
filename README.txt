@@ -1,0 +1,2 @@
+Also please place the two scripts in two different directories. Ex: Put process script in folder 1 and application script in folder 2, the report files will be exported in their respective
+directories
